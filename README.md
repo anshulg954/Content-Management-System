@@ -3,4 +3,4 @@ A simple content management system consisting of the details given in the pdf.
 
 ## Admin User details:
 *username: adminuser* <br/>
-/*password: admin */
+*password: admin*
